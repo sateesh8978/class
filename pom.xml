@@ -3,6 +3,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.app</groupId>
 	<artifactId>crudApp</artifactId>
+	<configuration>
+        	<updateReleaseInfo>true</updateReleaseInfo>
+        </configuration>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Simple crud app</name>
